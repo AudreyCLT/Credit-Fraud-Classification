@@ -5,6 +5,7 @@ ML project to detect whether a credit card transaction is genuine or fraudulent.
 No one is impervious to financial crimes, and one of the most common one is having a malicious third-party using your credit card without your consent.  This leads to one of the most popular classification problems for data science, where we apply data science to check the validity of a credit card transaction.
 
 ### Packages Used:
+- Spark (Pyspark, MLlib)
 - Pandas
 - Numpy
 - Matplotlib
